@@ -1,0 +1,19 @@
+Keyword 'було' found in:
+  - E:\git\goit-cs-hw-04\texts\Buttya-v-okoli-rechej-Martin-Hajdehher.txt, found 6 times
+  - E:\git\goit-cs-hw-04\texts\Istoria_i_liudyna.txt, found 4 times
+  - E:\git\goit-cs-hw-04\texts\Istoriya_filosofij_1369324892.txt, found 12 times
+  - E:\git\goit-cs-hw-04\texts\Zanepad_revoliutsii.txt, found 9 times
+Keyword 'життя' found in:
+  - E:\git\goit-cs-hw-04\texts\Buttya-v-okoli-rechej-Martin-Hajdehher.txt, found 8 times
+  - E:\git\goit-cs-hw-04\texts\Istoria_i_liudyna.txt, found 27 times
+  - E:\git\goit-cs-hw-04\texts\Istoriya_filosofij_1369324892.txt, found 18 times
+  - E:\git\goit-cs-hw-04\texts\Zanepad_revoliutsii.txt, found 21 times
+Keyword 'себе' found in:
+  - E:\git\goit-cs-hw-04\texts\Buttya-v-okoli-rechej-Martin-Hajdehher.txt, found 7 times
+  - E:\git\goit-cs-hw-04\texts\Istoria_i_liudyna.txt, found 10 times
+  - E:\git\goit-cs-hw-04\texts\Istoriya_filosofij_1369324892.txt, found 11 times
+  - E:\git\goit-cs-hw-04\texts\Zanepad_revoliutsii.txt, found 8 times
+Keyword 'часто' found in:
+  - E:\git\goit-cs-hw-04\texts\Buttya-v-okoli-rechej-Martin-Hajdehher.txt, found 3 times
+  - E:\git\goit-cs-hw-04\texts\Istoriya_filosofij_1369324892.txt, found 3 times
+Total execution time: 0.002066 seconds
